@@ -51,5 +51,5 @@
 
 
 
-Son Güncelleme: 01-06-2026 05:08:08
+Son Güncelleme: 02-06-2026 05:08:48
 </details>
